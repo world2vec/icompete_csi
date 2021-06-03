@@ -4,6 +4,3 @@ scikit-learn==0.23.2
 numpy==1.18
 psutil
 mautil==0.3.1
-
-
-
